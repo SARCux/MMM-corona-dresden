@@ -2,6 +2,23 @@
 
 forked from tonimoeckel/MMM-corona-dresden and adapted for Braunschweig. By changing "objectIds=17" also possible to use for other cities in Germany.
 
+Still in work - planned changes:
+
+    proper / new naming of module
+    change data source to RKI to receive more data
+    add revovered people of city
+    add information of Germany as well
+    configuration to change city easier
+
+The module displays the following information:
+
+Für den Landkreis Cuxhaven
+
+    Fälle gesamt
+    Zahl der derzeit angesteckten Personen
+    Zahl der Toten
+    Inzidenz inkl. Chart
+
 
 ### The module displays the following information:
 
@@ -12,7 +29,8 @@ forked from tonimoeckel/MMM-corona-dresden and adapted for Braunschweig. By chan
 
 
 ### Data Source
-https://services.arcgis.com/ORpvigFPJUhb8RDF/arcgis/rest/services/corona_DD_7_Sicht/FeatureServer/0/query?f=json&where=Anzeige_Indikator%3D%27x%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=50&resultType=standard&cacheHint=true
+https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=&objectIds=35&outFields=OBJECTID,death_rate,cases,deaths,cases_per_100k,cases_per_population,county,last_update,cases7_per_100k,recovered,cases7_bl_per_100k&outSR=4326&f=json
+
 
 ## Installation
 
@@ -37,7 +55,7 @@ modules: [
     {
         module: "MMM-corona-dresden",
         position: "top_left",
-        header: "Corona Dresden",
+        header: "Corona Landkreis Cuxhaven",
         config: {
             
         }
