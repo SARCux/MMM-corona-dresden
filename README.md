@@ -43,7 +43,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone https://github.com/tonimoeckel/MMM-corona-dresden
+https://github.com/SARCux/MMM-corona-dresden.git
 ````
 
 
