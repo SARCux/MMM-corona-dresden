@@ -6,20 +6,20 @@ adapted for LK Cuxhaven. By changing "objectIds=35" also possible to use for oth
 
 Still in work - planned changes:
 
-    proper / new naming of module
-    change data source to RKI to receive more data
-    add revovered people of city
-    add information of Germany as well
-    configuration to change city easier
+*    proper / new naming of module
+*    change data source to RKI to receive more data
+*    add revovered people of city
+*    add information of Germany as well
+*    configuration to change city easier
 
 The module displays the following information:
 
 Für den Landkreis Cuxhaven
 
-    Fälle gesamt
-    Zahl der derzeit angesteckten Personen
-    Zahl der Toten
-    Inzidenz inkl. Chart
+*    Fälle gesamt
+*    Zahl der derzeit angesteckten Personen
+*    Zahl der Toten
+*    Inzidenz inkl. Chart
 
 
 ### The module displays the following information:
