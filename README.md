@@ -27,7 +27,7 @@ Für den Landkreis Cuxhaven
 * Zahl der derzeit angesteckten Personen
 * Inzidenz inkl. Chart
 
-![screenshot](https://github.com/tonimoeckel/MMM-corona-dresden/blob/main/screenshot/screen.png)
+![screenshot](https://raw.githubusercontent.com/SARCux/MMM-corona-dresden/main/screenshot/Corona%20LK%20Cuxhaven.png)
 
 
 ### Data Source
