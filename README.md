@@ -4,14 +4,6 @@
 
 adapted for LK Cuxhaven. By changing "objectIds=35" also possible to use for other cities in Germany.
 
-Still in work - planned changes:
-
-*    proper / new naming of module
-*    change data source to RKI to receive more data
-*    add revovered people of city
-*    add information of Germany as well
-*    configuration to change city easier
-
 The module displays the following information:
 
 Für den Landkreis Cuxhaven
