@@ -22,11 +22,6 @@ Für den Landkreis Cuxhaven
 *    Inzidenz inkl. Chart
 
 
-### The module displays the following information:
-
-* Zahl der derzeit angesteckten Personen
-* Inzidenz inkl. Chart
-
 ![screenshot](https://raw.githubusercontent.com/SARCux/MMM-corona-dresden/main/screenshot/Corona%20LK%20Cuxhaven.png)
 
 
